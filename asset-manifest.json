@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cloud-monitoring-dashboard/static/css/main.e6c13ad2.css",
+    "main.js": "/cloud-monitoring-dashboard/static/js/main.6579020d.js",
+    "static/js/453.c3a012c5.chunk.js": "/cloud-monitoring-dashboard/static/js/453.c3a012c5.chunk.js",
+    "index.html": "/cloud-monitoring-dashboard/index.html",
+    "main.e6c13ad2.css.map": "/cloud-monitoring-dashboard/static/css/main.e6c13ad2.css.map",
+    "main.6579020d.js.map": "/cloud-monitoring-dashboard/static/js/main.6579020d.js.map",
+    "453.c3a012c5.chunk.js.map": "/cloud-monitoring-dashboard/static/js/453.c3a012c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6579020d.js"
+  ]
+}
